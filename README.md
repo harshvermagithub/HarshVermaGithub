@@ -1,3 +1,4 @@
+# Shubhamdeep Jha&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <h1 align="center"></h1>
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
@@ -19,8 +20,8 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" />I’m currently working with Block-Chain and WEB 3.0 Technologies 💪.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate on a startup project which is in the making....
 - <img alt="GIF" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-cryptocurrency-digital-currency-wanicon-lineal-color-wanicon.png" width="20vw" /> Ask me about Block-Chain🥈 and Crypto-Currency🪙......
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)🧔
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*💡 lies in my *laziness*😴
   
 ![Harsh](https://metrics.lecoq.io/harshvermagithub?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
   
