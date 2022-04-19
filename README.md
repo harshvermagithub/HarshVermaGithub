@@ -62,7 +62,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvermagithub&theme=merko&layout=compact">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=harshvermagithub&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=harshvermagithub&theme=merko&show_icons=true&count_private=true">
     </td>
   </tr>
 </table>
