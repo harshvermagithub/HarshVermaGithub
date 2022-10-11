@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a 4th year UnderGraduate from <a href="https://atria.edu/home.php"> <b>Atria Institute Technology</b>,Bengaluru</a> .  
+    I am a B.E. graduate .  
      A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> . I can <b>quickly learn and master new technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> .
     I am seeking for an opportunity to work in a challenging environment to prove my skills and utilize this <b>opportunity</b>
      to work in a <b>challenging environment</b>,to prove my <b>skills</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>utilize</b> my knowledge <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> .
